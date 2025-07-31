@@ -4,7 +4,7 @@ let urls = [
 	'https://www.fnblog.fnyun.co#Vercel1 CDN',
 	'https://www.fnblog.fntao5.cn#Vercel2 CDN',
 	'https://www.fnblog.fny6.top#Cloudflare1 CDN',
-	'https://www.fnblog.top#Cloudflare2 CDN'
+	'https://www.fnblog.fncloud.top#Cloudflare2 CDN'
 ];
 
 export default {
